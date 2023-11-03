@@ -1,5 +1,5 @@
 # pbitx
-<img src="ithub.com/sm0kbw/pbitx/blob/main/docs/media/panorama.JPG" width="100" height="100">
+![Pbitx](/docs/media/panorama_small.JPG)
 
 Pbitx is a replacement for the arduino in Ubitx v6, it´s based on the Raspberry Pi Pico micro controller.
 
