@@ -20,7 +20,7 @@ Hardware design files can be found in the PCB folder and the subfolder AGC.
 There are two Kicad designs the first on is the adapter that replace the Arduino with a RPI Pico controller. The second one is an
 AGC detector it is used by some functions, S-Meter and a panoram scope, The detector is based on ND6T's design with some extra components added.
 
-This is, of course, a work in progress features.
+This is, of course, a work in progress and features will be added and bugg fixed.
 
 Bengt - SM0KBW 	2023-Nov-01 
 
