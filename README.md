@@ -1,5 +1,5 @@
 # pbitx
-[Pbitx](docs/media/panoranama.JPG)
+![Pbitx](docs/media/panoranama.JPG)
 
 Pbitx is a replacement for the arduino in Ubitx v6, it´s based on the Raspberry Pi Pico micro controller.
 
