@@ -10,7 +10,7 @@ Changed or replaced files is for instance the file handling CW, it's replaced wi
 Beside thiose files I have made a lot of changes in the code, and I like to think that I have simplified some code.
 I use a set of fonts from http://www.rinkydinkelectronics.com/r_fonts.php/ thank you for those files.
 
-I've added a S-meter and a panorama-mode, both dependent on a extended ND6T AGC ciricuit. The panaroma mode means that a broder frequency
+I've added a S-meter and a panorama-mode, both dependent on a extended ND6T AGC ciricuit. The panaroma mode means that a broader frequency
 span is sweept and presented as s spectrum on the display, this is how it was done in ancient times, of course the reciever isn't usable
 in this mode. Pbitx has three CW modes, straight key, plain respective iambic bugg mode. CAT is now a subset of the CI-V interrface. 
 For now it's just a couple of commands implemented such as setting and reading the frequency, changing mode and switch between RX and TX mode.
